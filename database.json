@@ -1,8 +1,14 @@
 [
-     {
-        "user_email": "email",
-        "user_phone": "phone",
-        "user_order_date": "date",
-        "user_text": "text"
-    }
+  {
+    "form_name": "user_data",
+    "user_email": "email",
+    "user_phone": "phone"
+  },
+  {
+    "form_name": "user_order",
+    "user_email": "email",
+    "user_phone": "phone",
+    "user_order_date": "date",
+    "user_text": "text"
+  }
 ]
