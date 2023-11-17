@@ -1,12 +1,12 @@
 {
   "_default": {
     "1": {
-      "form_name": "user_data",
+      "form_name": "my_form",
       "user_email": "email",
       "user_phone": "phone"
     },
   "2": {
-    "form_name": "user_order",
+    "form_name": "order_form",
     "user_email": "email",
     "user_order_date": "date",
     "user_text": "text"
